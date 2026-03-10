@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Yahya 👋<br><br>I’m a passionate full-stack web developer specializing in building high-performance, production-ready web applications that scale and deliver measurable results. My focus is on creating clean, user-friendly interfaces combined with robust backend logic to build products that not only look great but also perform exceptionally.<br><br>I love working with modern technologies like MERN (MongoDB, Express, React, Node.js), Tailwind CSS, and Next.js, and I’m always exploring new tools and frameworks to stay ahead in the fast-moving world of web development.<br><br>When I’m not coding, I enjoy problem-solving, learning about emerging tech trends, and contributing to projects that make an impact.
+Hi, I’m Yahya 👋<br><br>I’m a passionate full-stack web developer specializing in building high-performance, production-ready web applications that scale and deliver measurable results. My focus is on creating clean, user-friendly interfaces combined with robust backend logic to build products that not only look great but also perform exceptionally.<br><br>When I’m not coding, I enjoy problem-solving, learning about emerging tech trends, and contributing to projects that make an impact.
 
 
 ## 🌐 Socials:
@@ -15,7 +15,6 @@ Hi, I’m Yahya 👋<br><br>I’m a passionate full-stack web developer speciali
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Muhamad-Yahya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
